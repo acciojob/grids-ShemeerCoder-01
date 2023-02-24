@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+
+.first{
+	width:250px;
+	height: 200px;
+}
+.second{
+	width:250px;
+	height:200px;
+	margin-left:90px;
+}
+.third{
+	width:250px;
+	height:200px;
+	position: relative;
+	left:90px;
+}
